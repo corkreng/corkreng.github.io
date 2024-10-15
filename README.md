@@ -3,11 +3,9 @@
 ##Education
 
 Master's in Applied Statistics
-
 GPA: 3.6
 
 Bachelor's in Mathematics
-
 GPA: 3.57
 
 
