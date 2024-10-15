@@ -40,7 +40,7 @@ GPA: 3.57
 ## Projects
 
 ### Flight Cancellation Prediction
-[Publication] ()
+[Publication] (https://github.com/corkreng/Data-Science-Projects/tree/343963b887fd2b1f453b59ed6809f221de40957b/Flight_cancellation)
   This Project was a combined final project of two different classes during my Master's. The project was to be done in SAS enterprise miner and SAS programming with a three person group. It was a group project where I was soley responsible for the SAS programming which included joins using different forgien keys, summary tables,
   data cleaning, and through analysis of variables to determine if they should be included in the modeling process. I indentified a strong class imbalance and created a modified sample which spilt the data in 50% canceled flights and %50 non-canceled flights and set the prior probability with SAS enterprise miner. I assisted Chloe in the modeling within SAS enterprise miner but most of the credit goes to her. The powerpoint and written report was collobrative, but most of the credit goes to Will. 
   
