@@ -1,6 +1,6 @@
 # Data Scientist
 
-##Education
+## Education ##
 
 Master's in Applied Statistics
 GPA: 3.6
@@ -9,7 +9,7 @@ Bachelor's in Mathematics
 GPA: 3.57
 
 
-##Work Experience
+## Work Experience ##
 
 Graduate Teaching Assistant at University of ALabama at Birmingham
 
@@ -37,7 +37,7 @@ Statistics Tutor
 
 
 
-##Projects
+## Projects
 
 Flight Cancellation Prediction
 
