@@ -40,17 +40,18 @@ GPA: 3.57
 ## Projects
 
 ### Flight Cancellation Prediction
-
+[Publication] ()
   This Project was a combined final project of two different classes during my Master's. The project was to be done in SAS enterprise miner and SAS programming with a three person group. It was a group project where I was soley responsible for the SAS programming which included joins using different forgien keys, summary tables,
   data cleaning, and through analysis of variables to determine if they should be included in the modeling process. I indentified a strong class imbalance and created a modified sample which spilt the data in 50% canceled flights and %50 non-canceled flights and set the prior probability with SAS enterprise miner. I assisted Chloe in the modeling within SAS enterprise miner but most of the credit goes to her. The powerpoint and written report was collobrative, but most of the credit goes to Will. 
   
 ### Diabetes Survey Prediction
-
+[Publication] ()
   This project was initial done for the annual SAS cup competition during my Master's with the help of Will Davis. I lost the code original code, but I am currently redoing it in Python. 
 
 ### Groundwater Forecasting
-
+[Publication] ()
   This project was done for a consulting class where I consulted the geological survey of alabama on a time series analysis project. The data given to me was a daily measurement of the hieght of the waterlevel in a well in Tuscaloosa county. I was tasked with answering a few questions such as is there a trend, is there seasonality, and can the waterlevel be forecasted. 
   
 ### Shiney App for Stock Analysis
+[Publication] ()
   This is an independent and ongoing project that I have been adding to for the sake of my curiosity and to expand my knowledge of different statistical and data science techniques. 
