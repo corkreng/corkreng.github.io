@@ -16,7 +16,7 @@ GPA: 3.57
   8/15/2024 to 10/07/24
   
   Conducted two sections of Calculus 1 in person labs where I assisted students in learning and lab assignments
-  Tutored students in various math courses in the Math Learning Lab
+  Tutored students in various math courses in the Math Learning Lab.
 
 ### Graduate Research Assistant at The University of Alabama
 
@@ -33,7 +33,7 @@ GPA: 3.57
 
   1/1/2024 to 6/1/2024
   
-  Tutored students in introductry statistics classes online through Varsity Tutor website. Topics covered were linear regression, hypothesis testing, time series     analysis and Spss
+  Tutored students in introductry statistics classes online through Varsity Tutor website. Topics covered were linear regression, hypothesis testing, time series     analysis and Spss.
 
 
 
