@@ -50,6 +50,11 @@ GPA: 3.57
 
   This project was initial done for the annual SAS cup competition during my Master's with the help of Will Davis. I lost the code original code, but I am currently redoing it in Python. 
 
+### Dashboard of Presidential Elections
+<https://github.com/corkreng/Data-Science-Projects/tree/main/Election_Map_Tableau>
+
+  This project was done through the use of tableau to show data visualization of previous presidential elections from 1976 to 2020. 
+
 ### Groundwater Forecasting
 <https://github.com/corkreng/Data-Science-Projects/tree/fef1ce48c4ba765be2421ca251e606553f94dcd1/GroundWater_forecast>
 
@@ -59,3 +64,4 @@ GPA: 3.57
 <https://github.com/corkreng/Data-Science-Projects/tree/fef1ce48c4ba765be2421ca251e606553f94dcd1/Stock_Analysis>
 
   This is an independent and ongoing project that I have been adding to for the sake of my own curiosity and to expand my knowledge of different statistical and data science techniques. 
+
