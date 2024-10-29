@@ -1,4 +1,4 @@
-# Data Scientist
+
 
 ## Education ##
 
@@ -58,4 +58,4 @@ GPA: 3.57
 ### Shiny App for Stock Analysis
 <https://github.com/corkreng/Data-Science-Projects/tree/fef1ce48c4ba765be2421ca251e606553f94dcd1/Stock_Analysis>
 
-  This is an independent and ongoing project that I have been adding to for the sake of my curiosity and to expand my knowledge of different statistical and data science techniques. 
+  This is an independent and ongoing project that I have been adding to for the sake of my own curiosity and to expand my knowledge of different statistical and data science techniques. 
