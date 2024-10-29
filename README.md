@@ -60,8 +60,6 @@ GPA: 3.57
 
   This project was done for a consulting class where I consulted the geological survey of alabama on a time series analysis project. The data given to me was a daily measurement of the hieght of the waterlevel in a well in Tuscaloosa county. I was tasked with answering a few questions such as is there a trend, is there seasonality, and can the waterlevel be forecasted. 
   
-### Shiny App for Stock Analysis
-<https://github.com/corkreng/Data-Science-Projects/tree/fef1ce48c4ba765be2421ca251e606553f94dcd1/Stock_Analysis>
-
-  This is an independent and ongoing project that I have been adding to for the sake of my own curiosity and to expand my knowledge of different statistical and data science techniques. 
-
+## Etc 
+<https://github.com/corkreng/Data-Science-Projects>
+  More projects can be found in the Data science projects repository. 
