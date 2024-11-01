@@ -9,7 +9,7 @@
 ### Diabetes Survey Prediction
 <https://github.com/corkreng/Data-Science-Projects/tree/4b3a35310f78e3d57d4e0a1dc991dd6a502c254c/diabetes_prediction>
 
-  This project was initial done for the annual SAS cup competition during my Master's with the help of Will Davis. I lost the code original code, but have redone it in python and with different models and methods. 
+  This project was initially created for the annual SAS Curiousity Cup competition during my Master's with the help of Will Davis. Our team came in tenth place out of seventy teams. I lost the original SAS code and report, but have recreated the project in python, which includes additional models and methods. 
 
 ### Dashboard of Presidential Elections
 <https://github.com/corkreng/Data-Science-Projects/tree/main/Election_Map_Tableau>
@@ -23,4 +23,5 @@
   
 ## Etc 
 <https://github.com/corkreng/Data-Science-Projects>
+
   More projects can be found in the Data science projects repository. 
